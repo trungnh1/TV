@@ -1,0 +1,86 @@
+#EXTINF:0,VTV1 HD
+https://live.vtvdigital.vn/hls/31193a7e527655182cb1e5e641ab78af/1543501235043/live/_definst_/vtv1-high.m3u8
+#EXTINF:0,VTV2 HD
+https://live.vtvdigital.vn/hls/e44070bb3ec89c0483111dad06f81a37/1543501181267/live/_definst_/vtv2-high.m3u8
+#EXTINF:0,VTV3 HD
+https://live.vtvdigital.vn/hls/31193a7e527655182cb1e5e641ab78af/1543501235043/live/_definst_/vtv3-high.m3u8
+#EXTINF:0,VTV4 HD
+https://live.vtvdigital.vn/hls/a603018e5e6b240a7d0844ba4ae22156/1543501318350/live/_definst_/vtv4-high.m3u8
+#EXTINF:0,VTV5 HD
+https://live.vtvdigital.vn/hls/5c959652d4c61f6206d06c99e11d8b11/1543501340947/live/_definst_/vtv5-high.m3u8
+#EXTINF:0,VTV6 HD
+https://live.vtvdigital.vn/hls/1d55078c86350e386ee20870e6b85523/1543726053797/live/_definst_/vtv6-high.m3u8
+#EXTINF:0,VTV7 HD
+https://live.vtvdigital.vn/hls/e736e54d27b58e592e0f00289d9764ec/1543501411540/live/_definst_/vtv7-high.m3u8
+#EXTINF:0,VTV8 HD
+https://live.vtvdigital.vn/hls/0059b1c22fdd0567a0f1e509a6036de2/1543501432966/live/_definst_/vtv8-high.m3u8
+#EXTINF:0,VTV9 HD
+https://live.vtvdigital.vn/hls/b0813a72be324ee9a7c27c874332caa8/1543501452699/live/_definst_/vtv9-high.m3u8
+#EXTINF:0,VTV5 Tay Nam Bo
+https://live.vtvdigital.vn/hls/798c17b3cad731571540157b4c3c3642/1543501851029/live/_definst_/vtv5tnb-high.m3u8
+#EXTINF:0,VTV5 Tay Nguyen
+https://live.vtvdigital.vn/hls/8e83dd0dcb80a3b48908ed46c0101460/1543501921038/live/_definst_/vtv5tn-high.m3u8
+#EXTINF:0,YEAH1! TV (VTVcab 17)
+https://live.vtvdigital.vn/hls/f3a29a5fa96e1c88ae76fea42ebd50bc/1546098838798/live/_definst_/vtvcab17-high.m3u8
+#EXTINF:0,HAY TV (VTVcab 6)
+https://live.vtvdigital.vn/hls/07ec8c9d10e8cea47fc90eeaa442a62c/1546098901659/live/_definst_/vtvcab6-high.m3u8
+#EXTINF:0,An Ninh TV
+https://live.vtvdigital.vn/hls/531085e2b89691467ebfc02359965b73/1546098936004/live/_definst_/antv-high.m3u8
+#EXTINF:0,Ha Noi 1 HD
+https://live.vtvdigital.vn/hls/8b3fc9059c729f9fa263ccd2efcf853a/1546098963504/live/_definst_/hanoi1tv-high.m3u8
+#EXTINF:0,Ha Noi 2 HD
+https://live.vtvdigital.vn/hls/75db1b4d4f9d7c17575540942537c570/1546098998342/live/_definst_/hanoi2tv-high.m3u8
+#EXTINF:0,Truyen hinh Nhan Dab
+https://live.vtvdigital.vn/hls/3f6cd41de943d0e6bc883681b38617d6/1546099032626/live/_definst_/nhandantv-high.m3u8
+#EXTINF:0,Thong Tan Xa Viet Nam
+https://live.vtvdigital.vn/hls/c0c2d19330bf94e43ce863664ad4d137/1546099070599/live/_definst_/ttxvn-high.m3u8
+#EXTINF:0,VTC1 HD
+https://live.vtvdigital.vn/hls/5513b78f002cb8d0a3b4a7ca9b6027e4/1546099104559/live/_definst_/vtc1-high.m3u8
+#EXTINF:0,Dong Nai 1 HD
+https://live.vtvdigital.vn/hls/0e8782ed61beef18e322b9040b8cac50/1546099138365/live/_definst_/dongnai1tv-high.m3u8
+#EXTINF:0,Quoc Phong VN
+https://live.vtvdigital.vn/hls/1fd90b932883efa7575e57d267fcd854/1546099172036/live/_definst_/quocphongtv-high.m3u8
+#EXTINF:0,Dong Nai 2 HD
+https://live.vtvdigital.vn/hls/23d38402b50a8f7d9942a04c60da3810/1546099206593/live/_definst_/dongnai2tv-high.m3u8
+#EXTINF:0,Hau Giang
+https://live.vtvdigital.vn/hls/855be2198f5ffbef9541b355ebb8ef1e/1546099247621/live/_definst_/haugiangtv-high.m3u8
+#EXTINF:0,Quang Ninh 1
+https://live.vtvdigital.vn/hls/35af00bc3f060c5e462c3efb655e3d11/1546099276426/live/_definst_/quangninhtv-high.m3u8
+#EXTINF:0,Nghe An HD
+https://live.vtvdigital.vn/hls/9b35575a14cc4f786071d741af658bf4/1546099312130/live/_definst_/ngheantv-high.m3u8
+#EXTINF:0,Tien Giang
+https://live.vtvdigital.vn/hls/5e7d38d3c038240d769a18f1b87a19cd/1546099345990/live/_definst_/tiengiangtv-high.m3u8
+#EXTINF:0,Khanh Hoa
+https://live.vtvdigital.vn/hls/4a97d2b17027d95fcc055678245d1ba9/1546099384923/live/_definst_/khanhhoatv-high.m3u8
+#EXTINF:0,Thua Thien Hue
+https://live.vtvdigital.vn/hls/3480c69dae63840c914f900323266364/1546099416369/live/_definst_/huetv-high.m3u8
+#EXTINF:0,Thai Binh
+https://live.vtvdigital.vn/hls/3bb5bb6371e1da121fe33ae9c7f79460/1546099458224/live/_definst_/thaibinhtv-high.m3u8
+#EXTINF:0,Truyen hinh Vinh Long 1
+https://live.vtvdigital.vn/hls/b601fc2c067cf29c7ccde5f698cf3a20/1546099487528/live/_definst_/vinhlong1tv-high.m3u8
+#EXTINF:0,Dong Thap 1
+https://live.vtvdigital.vn/hls/447e655ef81ff31e184948a2ba19ecbc/1546099530530/live/_definst_/dongthap1tv-high.m3u8
+#EXTINF:0,Hai Phong HD
+https://live.vtvdigital.vn/hls/e632d12503cc88752123e0ac187d8ab8/1546099567354/live/_definst_/haiphongtv-high.m3u8
+#EXTINF:0,Lang Son
+https://live.vtvdigital.vn/hls/da71335b901684483c3c76d0b7fc4c98/1546099600544/live/_definst_/langsontv-high.m3u8
+#EXTINF:0,Hai Duong
+https://live.vtvdigital.vn/hls/2eb444a1f884336c09937c637d6b5002/1546099629611/live/_definst_/haiduongtv-high.m3u8
+#EXTINF:0,Binh Phuoc 1
+https://live.vtvdigital.vn/hls/feb16d38bf74f94f8bb8fe0ff025c921/1546099663035/live/_definst_/binhphuoctv-high.m3u8
+#EXTINF:0,Vinh Phuc
+https://live.vtvdigital.vn/hls/0c674492293bd820d08a27114929a5c5/1546099693839/live/_definst_/vinhphuctv-high.m3u8
+#EXTINF:0,Da Nang 1
+https://live.vtvdigital.vn/hls/4d3cf4953c817a06764d4a5fd8929d4e/1546099758332/live/_definst_/danang1tv-high.m3u8
+#EXTINF:0,Da Nang 2
+https://live.vtvdigital.vn/hls/c54a048c1cd42ef31d6ccebc70c120fb/1546099802756/live/_definst_/danang2tv-high.m3u8
+#EXTINF:0,Binh Duong 1
+https://live.vtvdigital.vn/hls/9860b83ea53f6441eb985df6b34ca199/1546099829562/live/_definst_/binhduong1tv-high.m3u8
+#EXTINF:0,Thanh Hoa HD
+https://live.vtvdigital.vn/hls/8fca75920c3294b9c8495b2ecbd30a99/1546099867216/live/_definst_/thanhhoatv-high.m3u8
+#EXTINF:0,Ninh Binh HD
+https://live.vtvdigital.vn/hls/a59923f0f9d0c89107b2cc387bce9ccf/1546099896130/live/_definst_/ninhbinhtv-high.m3u8
+#EXTINF:0,Hung Yen
+https://live.vtvdigital.vn/hls/5498d955edbb39fc9caa0b0733fbc305/1546099944920/live/_definst_/hungyentv-high.m3u8
+#EXTINF:0,Ha Tinh HD
+https://live.vtvdigital.vn/hls/b33d0c89d23a0bdaa6bc386f9af8a69a/1546100391805/live/_definst_/hatinhtv-high.m3u8
